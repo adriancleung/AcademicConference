@@ -1,4 +1,5 @@
-# CMPUT 291 Assignment 3 Project
+# Academic Conference Management System
+CMPUT 291 Assignment 3 Project
 
 ## 1. System overview and user guide
 This system guides users, using a command line interface, through different tasks that parses
