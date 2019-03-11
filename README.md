@@ -95,19 +95,3 @@ function creates a data frame from a query that returns the reviewer’s email a
 their average scores for each category by grouping each reviewer from the table
 reviews. Finally, the resulting data from the data frame is plotted on a grouped bar chart
 and is displayed.
-## 3. Testing Strategy
-All testing involved the sample database provided for Assignment 2. Testing for individual tasks
-was done as code was being written; this involved, in some cases, checking the output of SQL
-queries before outputting the result as a graph or chart. Once tasks were completed, testing
-was done using the sample database on each task individually; this involved manually
-inspecting the database contents for expected output of the task and running the task’s code to
-ensure accuracy. When all tasks were completed and corroborated into the same program, final
-testing was done on each task to ensure accuracy.
-## 4. Group work breakdown
-Nathan completed the code for tasks 3 and 4, conducted final testing on the completed project,
-created the layout for this design document and wrote sections 2.4, 2.5, and 3. Adrian
-completed the code for tasks 5 and 6, implemented the main function, menu, and dataflow
-between functions and the main function, and wrote sections 1, 2.1, 2.6, and 2.7. Nomar
-completed the code for tasks 1 and 2, and wrote sections 2.2 and 2.3. The group met three
-times, each for around an hour, to discuss the project and divide responsibilities. Each group
-member spent approximately 3 hours completing their portions.
