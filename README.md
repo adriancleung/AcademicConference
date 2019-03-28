@@ -95,3 +95,7 @@ function creates a data frame from a query that returns the reviewer’s email a
 their average scores for each category by grouping each reviewer from the table
 reviews. Finally, the resulting data from the data frame is plotted on a grouped bar chart
 and is displayed.
+
+## Collaborators
+* [Nathan Vandermolen-Pater](https://github.com/natemalek)
+* [Nomar Chavez](https://github.com/nmrchvz)
